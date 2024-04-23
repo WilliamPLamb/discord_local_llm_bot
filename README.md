@@ -1,0 +1,1 @@
+Template discord invite link (add your own bot client ID): https://discord.com/oauth2/authorize?client_id=insert_bot_client_id_here&permissions=377957239808&scope=bot
