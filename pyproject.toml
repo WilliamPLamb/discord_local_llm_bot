@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "discord_local_llm_bot"
+version = "0.1.0"
+description = ""
+authors = ["WilliamPLamb <williamplamb@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+psycopg2 = "^2.9.9"
+openai = "^1.23.2"
+"discord.py" = "^2.3.2"
+python-dotenv = "^1.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
